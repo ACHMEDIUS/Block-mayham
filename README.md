@@ -18,7 +18,9 @@ In this game mode you will play against other players. You'll have several obsti
 * perlin-noise
 ### *After the game was finished, auto-py-to-exe was used to convert the files to an .exe file*
 ### The original game files are also in this repository and you'll find a link to a YouTube video explaining the game.
-[link to YT vid](youtube.com)
+[link to YT vid](https://www.youtube.com/watch?v=qiSDVWox7G8&ab_channel=BehradK.Farahani)
+[Click for .exe game files](https://1drv.ms/u/s!Ap7_zG2013MSjd1sLJa0xNIXAFReCw?e=agYuoe)
+
 
 ### If you want to launch the game using python, type the following commands in the games' directory:
 
