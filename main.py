@@ -33,7 +33,7 @@ freq = random.randint(10, 20)
 
 #terrain list change Width for performance
 shells = []
-shellWidth = 26 
+shellWidth = 20 
 
 #main game with all the nested functions, this is used to call using the main menu
 def Singleplayer():
@@ -155,7 +155,7 @@ def Singleplayer():
         if held_keys['escape']:
             quit()       
         if held_keys['shift']:
-            block.speed = 8
+            block.speed = 50
         else:   
             block.speed = 4
             
